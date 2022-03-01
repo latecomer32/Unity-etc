@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\DHS2AR\\Desktop\\Unity\\Dice2\\Assembly-CSharp-firstpass.csproj",
+  "TargetFramework": "v3.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
